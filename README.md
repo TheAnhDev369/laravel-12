@@ -59,4 +59,10 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
-# laravel-12
+
+##  laravel-12
+##  npm install && npm run build
+##  composer run dev
+##  Bật Laragon
+##  Truy cập vào server đang chạy ở port:   http://127.0.0.1:8000/ 
+##  Truy cập vào Laravel Vite ở host:       http://localhost:5173/
